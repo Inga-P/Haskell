@@ -59,4 +59,4 @@ ff_c testTree
 
 ![Test tree](img/tree.png)
 
-![Test tree](img/tree1.jpg)
+![Test tree](img/tree1.png)
