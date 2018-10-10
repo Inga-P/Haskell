@@ -15,7 +15,7 @@ Minimal installer provide centrally the GHC compiler and the Cabal and Stack too
 For running this project, core installer is enough.
 https://www.haskell.org/downloads#minimal
 
-### Running the tests on Dictionary.hs
+### Running tests on Dictionary.hs
 
 Open GHCi
 
@@ -37,7 +37,7 @@ kk1
 kk2
 ```
 
-## Running the tests on Tree.hs
+### Running tests on Tree.hs
 
 Open GHCi
 
